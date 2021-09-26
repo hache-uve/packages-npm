@@ -1,6 +1,6 @@
 {
-	"author": "Hageo Valdez",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Hageo Valdez",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
